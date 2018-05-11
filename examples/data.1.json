@@ -1,0 +1,26 @@
+{
+  "ticket": "11510-1",
+  "date": "2018-01-23",
+  "name": "Claude Racine  ",
+  "address1": "3962 avenue Laval,",
+  "address2": " Montréal(QC) H2W 2J2 ",
+  "country": "Canada",
+  "items": [
+    {
+      "title": "Mise en demeure rédigée par Avocat",
+      "description": "Lettre mise en demeure",
+      "quantity": 1,
+      "price": 90
+    },{
+    "title": "Envoi recommandé",
+    "description": "Lettre mise en demeure, Envoi recommandé",
+    "quantity": 1,
+    "price": 20
+  },{
+    "title": "Sceau Neolegal",
+    "description": "Sceau Neolegal, Augmentez impact",
+    "quantity": 1,
+    "price": 45
+  }]
+
+}

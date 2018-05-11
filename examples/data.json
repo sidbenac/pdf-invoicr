@@ -1,0 +1,17 @@
+{
+  "ticket": "14925",
+  "date": "2018-03-01",
+  "name": "Luc Perreault",
+  "address1": "268 route Principale,",
+  "address2": " Longue-Rive(QC) G0T 1Z0 ",
+  "country": "Canada",
+  "items": [
+    {
+      "title": "Envoi mise en demeure avec un avocat",
+      "description": "Frais d'envoi courrier",
+      "quantity": 1,
+      "price": 20,
+      "taxable":true
+    }
+  ]
+}
